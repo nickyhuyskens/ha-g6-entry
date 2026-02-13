@@ -1,0 +1,10 @@
+{
+  "domain": "unifi_protect_g6_entry",
+  "name": "UniFi Protect G6 Entry",
+  "version": "0.1.0",
+  "documentation": "https://github.com/your/repo",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@your-github"],
+  "iot_class": "local_polling"
+}
