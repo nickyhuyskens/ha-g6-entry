@@ -1,8 +1,5 @@
 {
   "name": "UniFi Protect G6 Entry",
-  "content_in_root": true,
-  "domains": ["unifi_protect_g6_entry"],
-  "country": ["any"],
-  "homeassistant": ">=2023.0.0",
+  "homeassistant": "2025.6",
   "render_readme": true
 }
